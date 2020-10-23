@@ -2,6 +2,8 @@
 
 Authenticate user with Node JS, Passport and MongoDB 
 
-To satrt this app:
+To start this app:
 
 npm run start
+
+localhost:5000
